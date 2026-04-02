@@ -27,5 +27,5 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn:https://www.linkedin.com/in/vinesh-yadav-040469270/
 - Email: vineshyadavr@gmail.com
