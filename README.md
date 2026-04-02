@@ -29,5 +29,5 @@
 </p>
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinesh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinesh-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/vinesh-yadav-040469270/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vineshyadavr@gmail.com)
