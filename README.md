@@ -29,6 +29,18 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineshyadav1234&repo=pyspark_projects&theme=radical" />
   </a>
 </p>
+## 📊 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=vineshyadav1234&theme=tokyo-night)
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/vineshyadav1234/vineshyadav1234/output/github-contribution-grid-snake.svg)
+
+## 👀 Profile Views
+
+![Visitors](https://komarev.com/ghpvc/?username=vineshyadav1234&label=Profile%20views&color=0e75b6&style=flat)
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinesh-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/vinesh-yadav-040469270/)
